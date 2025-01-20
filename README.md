@@ -7,17 +7,36 @@ I am a **Master’s graduate in Computer Applications** from **Devi Ahilya Vishw
 
 # Technical Skills
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Excel)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)](https://en.wikipedia.org/wiki/Power_BI)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-0076A8?style=flat&logo=matplotlib&logoColor=white)](https://en.wikipedia.org/wiki/Matplotlib)
-[![DAX](https://img.shields.io/badge/DAX-1E4B7C?style=flat&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DAX)
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" style="margin-right: 15px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" style="margin-right: 15px;" />
+  </a>
+</p>
+
 
 
 ---
@@ -36,9 +55,19 @@ I am a **Master’s graduate in Computer Applications** from **Devi Ahilya Vishw
 
 ---
 
-# Connect with me
+# Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-singh-425477189/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hardiksingh35@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/hardiksingh35)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hardikk_yaar)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hardik-singh-425477189/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" style="margin-right: 10px;" />
+  </a>
+  <a href="https://x.com/hardiksingh35" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="60" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/hardikk_yaar" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="60" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:hardiksingh35@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" style="margin-right: 10px;" />
+  </a>
+</p>
