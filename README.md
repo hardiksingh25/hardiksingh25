@@ -35,4 +35,14 @@ I am a **Master’s graduate in Computer Applications** from **Devi Ahilya Vishw
 
 ### 📫 **Let’s Connect!**  
 - 🌐 [GitHub](https://github.com/hardiksingh25)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hardik-singh-425477189/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hardik-singh-425477189/)
+
+- # 📊 GitHub Stats
+![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiksingh25&show_icons=true&theme=radical)
+
+## 🌟 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksingh25&layout=compact&theme=radical)
+
+## 🚀 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=hardiksingh25&theme=radical)
+
