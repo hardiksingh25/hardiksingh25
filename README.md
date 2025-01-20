@@ -61,13 +61,10 @@ I am a **Master’s graduate in Computer Applications** from **Devi Ahilya Vishw
   <a href="https://www.linkedin.com/in/hardik-singh-425477189/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" style="margin-right: 10px;" />
   </a>
-  <a href="https://x.com/hardiksingh35" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="60" style="margin-right: 10px;" />
+  <a href="mailto:hardiksingh35@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" style="margin-right: 10px;" />
   </a>
   <a href="https://www.instagram.com/hardikk_yaar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="60" style="margin-right: 10px;" />
-  </a>
-  <a href="mailto:hardiksingh35@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" style="margin-right: 10px;" />
   </a>
 </p>
